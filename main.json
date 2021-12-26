@@ -657,6 +657,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-overlay",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0"
+                }],
          "spacing":0,
          "tilecount":512,
          "tileheight":32,
@@ -682,6 +688,15 @@
                          "type":"bool",
                          "value":true
                         }]
+                }, 
+                {
+                 "id":8,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":""
+                        }]
                 }],
          "tilewidth":32
         }, 
@@ -693,6 +708,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-floor-wall",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -706,6 +727,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"AceSet-Hospital",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA milkian"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -745,6 +772,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-neon-signs",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -976,6 +1009,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"05_mate_bottles_full",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":""
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -989,6 +1028,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"07_right_mate_bottles_flora",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":""
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -1002,6 +1047,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"13_winkekatze",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":""
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1015,10 +1066,25 @@
          "imagewidth":768,
          "margin":0,
          "name":"city_inside",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA Reemax"
+                }],
          "spacing":0,
          "tilecount":384,
          "tileheight":32,
          "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"CC-BY-SA Reemax"
+                        }]
+                }, 
                 {
                  "id":33,
                  "properties":[
@@ -1026,6 +1092,15 @@
                          "name":"collides",
                          "type":"bool",
                          "value":true
+                        }]
+                }, 
+                {
+                 "id":225,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"CC0"
                         }]
                 }],
          "tilewidth":32
@@ -1051,6 +1126,12 @@
          "imagewidth":960,
          "margin":0,
          "name":"rc3-2021-mullana-utility",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0"
+                }],
          "spacing":0,
          "tilecount":1200,
          "tileheight":32,
@@ -1173,6 +1254,12 @@
          "imagewidth":640,
          "margin":0,
          "name":"cija_32x32_basic_CC0",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0"
+                }],
          "spacing":0,
          "tilecount":600,
          "tileheight":32,
