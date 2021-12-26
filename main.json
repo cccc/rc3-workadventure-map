@@ -450,7 +450,7 @@
                                 {
                                  "name":"exitUrl",
                                  "type":"string",
-                                 "value":"world:\/\/lobby\/c4"
+                                 "value":"world:\/\/lobby\/punchcard.json#start_c4"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -616,7 +616,7 @@
                  "y":0
                 }],
          "name":"functions",
-         "opacity":0.3,
+         "opacity":0,
          "type":"group",
          "visible":true,
          "x":0,
